@@ -22,7 +22,7 @@ This project is a web application designed to enhance image resolution using a C
 
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the app: `python app.py`
+3. Run the app: `python main.py`
 4. Open in browser at `http://localhost:5000`
 
 ## Author
